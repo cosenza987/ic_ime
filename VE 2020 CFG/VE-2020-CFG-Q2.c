@@ -15,7 +15,7 @@ int main() {
         base2 = base; //base do triangulo invisivel de baixo
         entra = tri - 1; //a quantidade de espacos antes do primeiro triangulo da parte de baixo
         //imprimindo o triangulo de cima
-        for(int j = 0; j < tri; j++) {
+        for(row = 0; row < tri; row++) {
             for(int i = 0; i < base1; i++) {
             printf(" ");
             }
@@ -24,11 +24,9 @@ int main() {
                 printf("*");
             }
             printf("\n");
-            row++;
         }
         //imprimindo os dois de baixo agora
-        row = 0;
-        for(int j = 0; j < tri; j++) {
+        for(row = 0; row < tri; row++) {
             for(int i = 0; i < entra; i++) {
                 printf(" ");
             }
@@ -42,7 +40,6 @@ int main() {
                 printf("*");
             }
             entra--;
-            row++;
             base2 = base2 - 2;
             printf("\n");
         }
