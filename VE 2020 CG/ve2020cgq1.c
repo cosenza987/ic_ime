@@ -1,10 +1,10 @@
-// comensal viva 25, pau no cu dos urso
+// comensal viva 25, nao importa como voce faca, sempre ha como errar
 #include <stdio.h>
 
-int res[10];
+int res[10]; // uma maneira de separar cada resultado, com 0 indicando insuficiente, 1 indicando regular e etc.
 
 int main() {
-    int idade, dist, flex, abd, barra;
+    int idade, dist, flex, abd, barra, ind = 0; // indicador para a suficiencia
     printf("***Bem-vindo a calculadora do TAF***\n\n");
     printf("Idade do militar: ");
     scanf("%d", &idade);
@@ -38,6 +38,9 @@ int main() {
         printf("E\n");
         res[4]++;
     }
+    if(dist < 2950) {
+        ind++;
+    }
     printf("Flexao de Braco: ");
     if(flex <= 20) {
         printf("I\n");
@@ -54,6 +57,9 @@ int main() {
     } else {
         printf("E\n");
         res[4]++;
+    }
+    if(flex < 30) {
+        ind++;
     }
     printf("Abdomnial: ");
     if(abd <= 34) {
@@ -72,6 +78,9 @@ int main() {
         printf("E\n");
         res[4]++;
     }
+    if(abd < 54) {
+        ind++;
+    }
     printf("Flexao na Barra: ");
     if(barra <= 4) {
         printf("I\n");
@@ -89,8 +98,11 @@ int main() {
         printf("E\n");
         res[4]++;
     }
+    if(barra < 8) {
+        ind++;
+    }
     printf("\nSuficiencia: ");
-    if(res[0] == 0) {
+    if(ind == 0) {
         printf("S");
     } else {
         printf("NS");
