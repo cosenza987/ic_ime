@@ -17,7 +17,7 @@ int main() {
         //imprimindo o triangulo de cima
         for(row = 0; row < tri; row++) {
             for(int i = 0; i < base1; i++) {
-            printf(" ");
+                printf(" ");
             }
             base1--;
             for(int k = 0; k < (2*row) + 1; k++) {
