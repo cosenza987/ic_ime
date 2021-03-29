@@ -1,4 +1,4 @@
-//comensal bora 25
+//comensal bora 25, pau no cu dos urso
 #include <stdio.h>
 
 int main() {
