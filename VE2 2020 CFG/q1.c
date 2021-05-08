@@ -1,3 +1,4 @@
+//fodasse a estrutura q ele quer
 #include <stdio.h>
 #include <string.h>
 
