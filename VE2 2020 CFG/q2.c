@@ -1,3 +1,4 @@
+// mano pq ele manda fazer do jeito dele
 #include <stdio.h>
 
 int recursivo(int n) {
