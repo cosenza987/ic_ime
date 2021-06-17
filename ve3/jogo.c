@@ -715,8 +715,10 @@ void batalha(userr a1, enemy b2) {
         if(rodada != 0) {
             limpar();
         }
-        printf("HP = %d, Ataque = %d, Defesa = %d, Nivel = %d\n", hpuser, a1.attack, a1.defense, a1.level);
+        printf("%s: HP = %d, Ataque = %d, Defesa = %d, Nivel = %d\n", a1.nome, hpuser, a1.attack, a1.defense, a1.level);
         fprintf(arquivo_saida, "HP = %d, Ataque = %d, Defesa = %d, nivel = %d\n", hpuser, a1.attack, a1.defense, a1.level);
+        printf("%s: HP = %d, Ataque = %d, Defesa = %d, Nivel = %d\n", b2.nome, hpenemy, b2.attack, b2.defense, b2.level);
+        fprintf(arquivo_saida, "%s: HP = %d, Ataque = %d, Defesa = %d, Nivel = %d\n", b2.nome, hpenemy, b2.attack, b2.defense, b2.level);
         printf("Voce esta na rodada %d\nO que deseja fazer?\n1 - Atacar\n2 - Tentar fugir\n", rodada);
         scanf("%d", &option);
         fprintf(arquivo_saida, "Voce esta na rodada %d\nO que deseja fazer?\n1 - Atacar\n2 - Tentar fugir\nO usuario escolheu a opcao: %d\n", rodada, option);
@@ -753,6 +755,8 @@ void batalha(userr a1, enemy b2) {
                 if(fugir < 70) {
                     printf("Voce conseguiu fugir com sucesso!\n");
                     fprintf(arquivo_saida, "Voce conseguiu fugir com sucesso!\n");
+                    printf("Voce agora descansa para poder recuperar o seu HP.\n");
+                    fprintf(arquivo_saida, "Voce agora descansa para poder recuperar o seu HP.\n");
                     printf("Pressione a tecla 'enter' para continuar\n");
                     fprintf(arquivo_saida, "Pressione a tecla 'enter' para continuar\n");
                     bufferzar();
