@@ -716,7 +716,7 @@ void batalha(userr a1, enemy b2) {
             limpar();
         }
         printf("%s: HP = %d, Ataque = %d, Defesa = %d, Nivel = %d\n", a1.nome, hpuser, a1.attack, a1.defense, a1.level);
-        fprintf(arquivo_saida, "HP = %d, Ataque = %d, Defesa = %d, nivel = %d\n", hpuser, a1.attack, a1.defense, a1.level);
+        fprintf(arquivo_saida, "%s: HP = %d, Ataque = %d, Defesa = %d, Nivel = %d\n", a1.nome, hpuser, a1.attack, a1.defense, a1.level);
         printf("%s: HP = %d, Ataque = %d, Defesa = %d, Nivel = %d\n", b2.nome, hpenemy, b2.attack, b2.defense, b2.level);
         fprintf(arquivo_saida, "%s: HP = %d, Ataque = %d, Defesa = %d, Nivel = %d\n", b2.nome, hpenemy, b2.attack, b2.defense, b2.level);
         printf("Voce esta na rodada %d\nO que deseja fazer?\n1 - Atacar\n2 - Tentar fugir\n", rodada);
