@@ -250,6 +250,8 @@ int main() {
                 printf("Parabens, voce conseguiu achar a chave secreta, agora consegue abrir o tesouro que esta perdido em algum canto desse castelo.\n");
                 fprintf(arquivo_saida, "Parabens, voce conseguiu achar a chave secreta, agora consegue abrir o tesouro que esta perdido em algum canto desse castelo.\n");
                 usuario.haskey = 1;
+                bufferzar();
+                getchar();
             }
             if(mapa[ptr_atual->indice] == 0) {
                 printf("%s\n", ptr_atual->texto);
@@ -314,6 +316,8 @@ int main() {
                 printf("Parabens, voce conseguiu achar a chave secreta, agora consegue abrir o tesouro que esta perdido em algum canto desse castelo.\n");
                 fprintf(arquivo_saida, "Parabens, voce conseguiu achar a chave secreta, agora consegue abrir o tesouro que esta perdido em algum canto desse castelo.\n");
                 usuario.haskey = 1;
+                bufferzar();
+                getchar();
             }
             if(mapa[ptr_atual->indice] == 0) {
                 printf("%s\n", ptr_atual->texto);
