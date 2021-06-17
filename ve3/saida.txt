@@ -1,0 +1,765 @@
+Para uma melhor experiencia, recomenda-se deixar o terminal em tela cheia.
+Pressione a tecla 'enter' para continuar
+Boa noite, jogador default. Voce esta desacordado e sente que varios 1's e 0's sao, por assim dizer, a materia-prima nao so do seu corpo, mas de toda a realidade
+Mas nao ha tempo para devaneios tolos! Voce se ve diante de um castelo de aspecto imponente e sinistro, como resquicios do que um dia foi o centro de um grande imperio.
+Olhando ao redor, no entanto, voce so encontra ruinas. Voce decide se aproximar mais do castelo e, ao ver um grande portao entreaberto, entra por ele.
+Ao passar pelo portao, voce se encontra em um salao amplo que um dia foi luxuoso, as paredes de marmore que um dia representaram forca e poder, agora estao cobertas com poeira. E mariposas! Mariposas por toda parte!
+Voce ve uma estatua destruida a sua frente e, mais a frente da estatua, a entrada de um corredor obstruida por escombros, com estruturas parecidas com torres que, depois de uma rapida observacao, voce constata estarem vazias, semelhantes a fossos. Assim, voce se lembra de uma antiga lenda, de que ha um tesouro magico escondido nesse castelo que ninguem nunca achou. Sera necessario algo para abri-lo?
+A sua frente, entretanto, voce ve, formando um semicirculo, 5 itens peculiares: um Walkie Talkie, uma Chave Inglesa, uma Bussola, um Tijolo e um Circuito Avulso. Fora isso, em um canto, voce tambem ve um pedaco de papel e carvao, sera que pode ser usado para voce nao se perder aqui?
+No meio do semicirculo ha uma inscricao: 'Escolha sabiamente o seu item, pois ele modificara a sua jornada.'
+Escolha um item:
+1 - Walkie Talkie (Garante um pouco mais de HP e uma maior probabilidade de fugir de batalhas)
+2 - Chave Inglesa (Garante um ataque bem mais elevado, porem com o custo de uma defesa pouco menor)
+3 - Bussola (Garante um pouco mais de defesa e uma maior probabilidade de fugir de batalhas)
+4 - Tijolo (Garante um pouco mais de ataque)
+5 - Circuito Avulso (Garante um HP bem mais elevado, porem com o custo de uma defesa pouco menor)
+2
+Ao entrar no Saguao pela primeira vez, voce marca como a localizacao 0, bem no centro do papel.
+Saguao do Castelo
+A sua direita e a sua esquerda, de maneira simetrica, estao dois grandes corredores, ao lado dos quais estao duas escadas. Os corredores, entretanto, estao obstruidos por escombros, somente as escadas sao, com alguma dificuldade, transitaveis. 
+O que deseja fazer?
+1 - Subir a escada da esquerda.
+2 - Subir a escada da direita.
+3 - Olhar o mapa.
+O usuario escolheu a opcao: 2
+Ao entrar no local pela primeira vez, voce o marca no seu mapa com o numero 2.
+Grande Refeitorio
+Depois de andar pelos corredores, voce encontra uma entrada para um salao e entra por ela. O que voce encontra eh um salao grande, com mesas empoeiradas, estando algumas delas quebradas. Aparentemente, o salao era frequentado por muitas pessoas para as refeicoes.
+Ao lado da sala principal, voce ve uma sala anexa, semelhante a primeira, porem mais conservada. Voce pode subir para a sala anexa ou deixar o salao e subir uma longa escadaria.
+O que deseja fazer?
+1 - Voltar para Saguao do Castelo. (Marcado no mapa com numero 0)
+2 - Seguir para a primeira descricao.
+3 - Seguir para a outra descricao.
+4 - Olhar o mapa.
+Voce acaba de entrar em uma batalha o Macaco 'Martel'!
+O inimigo Macaco 'Martel' possui nivel 1, com HP 15, ataque 4 e defesa 3.
+Pressione a tecla 'enter' para continuar
+HP = 20, Ataque = 4, Defesa = 2, nivel = 0
+Voce esta na rodada 0
+O que deseja fazer?
+1 - Atacar
+2 - Tentar fugir
+O usuario escolheu a opcao: 1
+Atacando
+Voce deu 2 de dano enquanto o inimigo Macaco 'Martel' deu 2 de dano
+O seu HP ao final da rodada eh: 18 de 20
+HP do inimigo ao final da rodada eh: 13 de 15
+Pressione a tecla 'enter' para continuar
+HP = 18, Ataque = 4, Defesa = 2, nivel = 0
+Voce esta na rodada 1
+O que deseja fazer?
+1 - Atacar
+2 - Tentar fugir
+O usuario escolheu a opcao: 1
+Atacando
+Voce deu 2 de dano enquanto o inimigo Macaco 'Martel' deu 2 de dano
+O seu HP ao final da rodada eh: 16 de 20
+HP do inimigo ao final da rodada eh: 11 de 15
+Pressione a tecla 'enter' para continuar
+HP = 16, Ataque = 4, Defesa = 2, nivel = 0
+Voce esta na rodada 2
+O que deseja fazer?
+1 - Atacar
+2 - Tentar fugir
+O usuario escolheu a opcao: 1
+Atacando
+Voce deu 2 de dano enquanto o inimigo Macaco 'Martel' deu 2 de dano
+O seu HP ao final da rodada eh: 14 de 20
+HP do inimigo ao final da rodada eh: 9 de 15
+Pressione a tecla 'enter' para continuar
+HP = 14, Ataque = 4, Defesa = 2, nivel = 0
+Voce esta na rodada 3
+O que deseja fazer?
+1 - Atacar
+2 - Tentar fugir
+O usuario escolheu a opcao: 1
+Atacando
+Voce deu 2 de dano enquanto o inimigo Macaco 'Martel' deu 2 de dano
+O seu HP ao final da rodada eh: 12 de 20
+HP do inimigo ao final da rodada eh: 7 de 15
+Pressione a tecla 'enter' para continuar
+HP = 12, Ataque = 4, Defesa = 2, nivel = 0
+Voce esta na rodada 4
+O que deseja fazer?
+1 - Atacar
+2 - Tentar fugir
+O usuario escolheu a opcao: 1
+Atacando
+Voce deu 2 de dano enquanto o inimigo Macaco 'Martel' deu 2 de dano
+O seu HP ao final da rodada eh: 10 de 20
+HP do inimigo ao final da rodada eh: 5 de 15
+Pressione a tecla 'enter' para continuar
+HP = 10, Ataque = 4, Defesa = 2, nivel = 0
+Voce esta na rodada 5
+O que deseja fazer?
+1 - Atacar
+2 - Tentar fugir
+O usuario escolheu a opcao: 1
+Atacando
+Voce deu 2 de dano enquanto o inimigo Macaco 'Martel' deu 2 de dano
+O seu HP ao final da rodada eh: 8 de 20
+HP do inimigo ao final da rodada eh: 3 de 15
+Pressione a tecla 'enter' para continuar
+HP = 8, Ataque = 4, Defesa = 2, nivel = 0
+Voce esta na rodada 6
+O que deseja fazer?
+1 - Atacar
+2 - Tentar fugir
+O usuario escolheu a opcao: 1
+Atacando
+Ataque critico!
+Voce deu 2 de dano enquanto o inimigo Macaco 'Martel' deu 2 de dano
+O seu HP ao final da rodada eh: 6 de 20
+HP do inimigo ao final da rodada eh: 0 de 15
+Parabens, voce subiu de nivel, agora eh nivel 1
+Apos essa ardua batalha, voce descansa para recuperar completamente o seu HP.
+Pressione a tecla 'enter' para continuar
+Ao entrar no local pela primeira vez, voce o marca no seu mapa com o numero 5.
+Pequeno Refeitorio
+Ao entrar na sala mais conservada, voce nota que ha uma sutil diferenca entre as duas salas, a primeira sala era a sala em que os lacaios do rei comiam, enquanto na outra, a mais conservada, os mais nobres subordinados da coroa comiam.
+Alem disso, voce olha para a direita e ve uma porta entreaberta de onde vem uma luz fraca. Olhando pela janela, voce ve uma longa escadaria.
+O que deseja fazer?
+1 - Voltar para Grande Refeitorio. (Marcado no mapa com numero 2)
+2 - Seguir para a primeira descricao.
+3 - Seguir para a outra descricao.
+4 - Olhar o mapa.
+Grande Refeitorio (Local de numero 2)
+Ruinas de um antigo refeitorio (aparentemente para pessoas nao importantes)
+O que deseja fazer?
+1 - Voltar para Saguao do Castelo. (Marcado no mapa com numero 0)
+2 - Seguir para Pequeno Refeitorio. (Marcado no mapa com numero 5)
+3 - Seguir para o outro local, desconhecido.
+4 - Olhar o mapa.
+Voce acaba de entrar em uma batalha o Barata 'Roach'!
+O inimigo Barata 'Roach' possui nivel 2, com HP 20, ataque 5 e defesa 4.
+Pressione a tecla 'enter' para continuar
+HP = 23, Ataque = 9, Defesa = 4, nivel = 1
+Voce esta na rodada 0
+O que deseja fazer?
+1 - Atacar
+2 - Tentar fugir
+O usuario escolheu a opcao: 1
+Atacando
+Ataque critico!
+Voce deu 10 de dano enquanto o inimigo Barata 'Roach' deu 1 de dano
+O seu HP ao final da rodada eh: 22 de 23
+HP do inimigo ao final da rodada eh: 10 de 20
+Pressione a tecla 'enter' para continuar
+HP = 22, Ataque = 9, Defesa = 4, nivel = 1
+Voce esta na rodada 1
+O que deseja fazer?
+1 - Atacar
+2 - Tentar fugir
+O usuario escolheu a opcao: 1
+Atacando
+Ataque critico!
+Voce deu 10 de dano enquanto o inimigo Barata 'Roach' deu 1 de dano
+O seu HP ao final da rodada eh: 21 de 23
+HP do inimigo ao final da rodada eh: 0 de 20
+Parabens, voce subiu de nivel, agora eh nivel 2
+Apos essa ardua batalha, voce descansa para recuperar completamente o seu HP.
+Pressione a tecla 'enter' para continuar
+Ao entrar no local pela primeira vez, voce o marca no seu mapa com o numero 6.
+Ferreiro
+Ao entrar pelo laboratorio escuro, voce consegue acender uma tocha. Ao examinar com atencao, voce distingue estruturas grandes e complexas de metal. Seriam elas armamentos? Hummm, mas que estranho, esse castelo era um polo de avanco tecnologico. Seria mesmo este castelo um castelo medieval? Talvez voce esteja apenas delirando pelo tempo que passou no meio das ruinas... Ou sera que... Bem, nao ha tempo!!
+Na sua esquerda ha uma sala cheia de roupas na porta, na direita, um fosso com uma cabine dentro, seria um elevador?
+O que deseja fazer?
+1 - Voltar para Grande Refeitorio. (Marcado no mapa com numero 2)
+2 - Seguir para a primeira descricao.
+3 - Seguir para a outra descricao.
+4 - Olhar o mapa.
+Ao entrar no local pela primeira vez, voce o marca no seu mapa com o numero 13.
+Sala de Banhos
+Pequeno ambiente com armarios e bancos. Alguns armarios, estao com pecas de roupas antigas e num ambiente anexado, varios canos saindo das paredes sao vistos, devem ser algum mecanismo para que saia agua, bem provavel que essa agua era utilizada para banhos devido a altura dos canos.
+Apos uma melhor inspecao, ve-se que nao ha outra saida aqui sem ser por onde voce entrou.
+Voltando...
+Pressione a tecla 'enter' para continuar
+Ferreiro (Local de numero 6)
+Um laboratorio, mas tambem cheio de pecas de armas?
+O que deseja fazer?
+1 - Voltar para Grande Refeitorio. (Marcado no mapa com numero 2)
+2 - Seguir para Sala de Banhos. (Marcado no mapa com numero 13)
+3 - Seguir para o outro local, desconhecido.
+4 - Olhar o mapa.
+Voce acaba de entrar em uma batalha o Cupim Gigante 'TPA'!
+O inimigo Cupim Gigante 'TPA' possui nivel 2, com HP 12, ataque 9 e defesa 8.
+Pressione a tecla 'enter' para continuar
+HP = 26, Ataque = 14, Defesa = 6, nivel = 2
+Voce esta na rodada 0
+O que deseja fazer?
+1 - Atacar
+2 - Tentar fugir
+O usuario escolheu a opcao: 1
+Atacando
+Voce deu 6 de dano enquanto o inimigo Cupim Gigante 'TPA' deu 3 de dano
+O seu HP ao final da rodada eh: 23 de 26
+HP do inimigo ao final da rodada eh: 6 de 12
+Pressione a tecla 'enter' para continuar
+HP = 23, Ataque = 14, Defesa = 6, nivel = 2
+Voce esta na rodada 1
+O que deseja fazer?
+1 - Atacar
+2 - Tentar fugir
+O usuario escolheu a opcao: 1
+Atacando
+Voce deu 6 de dano enquanto o inimigo Cupim Gigante 'TPA' deu 3 de dano
+O seu HP ao final da rodada eh: 20 de 26
+HP do inimigo ao final da rodada eh: 0 de 12
+Parabens, voce subiu de nivel, agora eh nivel 3
+Apos essa ardua batalha, voce descansa para recuperar completamente o seu HP.
+Pressione a tecla 'enter' para continuar
+Ao entrar no local pela primeira vez, voce o marca no seu mapa com o numero 14.
+Vao Vertical
+Entramos num pequeno cubiculo, porem com uma altura enorme. Ao olhar para cima, uma porta no andar superior esta entreaberta, acredito, que, em epocas passadas, pessoas eram transportadas para cima e para baixo nesse longo vao vertical por algum mecanismo.
+Depois de escalar e entrar nessa porta, observamos que a esquerda existem um enorme salao e a direita, uma sala menor com grandes prateleiras.
+O que deseja fazer?
+1 - Voltar para Ferreiro. (Marcado no mapa com numero 6)
+2 - Seguir para a primeira descricao.
+3 - Seguir para a outra descricao.
+4 - Olhar o mapa.
+Ao entrar no local pela primeira vez, voce o marca no seu mapa com o numero 22.
+Sala dos Livros
+Ao adentrar no recinto, observa-se grandes prateleiras empoeiradas como uma vastidao de livros de diversos assuntos que vao desde matematica antiga ate relatos de historias militares.
+Apos uma melhor inspecao, ve-se que nao ha outra saida aqui sem ser por onde voce entrou.
+Voltando...
+Pressione a tecla 'enter' para continuar
+Vao Vertical (Local de numero 14)
+Um simples elevador, sera que ainda funciona?
+O que deseja fazer?
+1 - Voltar para Ferreiro. (Marcado no mapa com numero 6)
+2 - Seguir para o outro local, desconhecido.
+3 - Seguir para Sala dos Livros. (Marcado no mapa com numero 22)
+4 - Olhar o mapa.
+______ ______ ______ ______ ______ ______ ______
+|XXXX| |XXXX| |XXXX| |XXXX| |XXXX| |XXXX| |XXXX|
+|XXXX| |XXXX| |XXXX| |XXXX| |XXXX| |XXXX| |XXXX|
+|XXXX| |XXXX| |XXXX| |XXXX| |XXXX| |XXXX| |XXXX|
+______ ______ ______ ______ ______ ______ ______
+|XXXX| |XXXX| |XXXX| |XXXX| |XXXX| |    | |XXXX|
+|XXXX| |XXXX| |XXXX| |XXXX| |XXXX| | 05 | |XXXX|
+|XXXX| |XXXX| |XXXX| |XXXX| |XXXX| |_  _| |XXXX|
+______ ______ ______ ______ ______ __||__ ______
+|XXXX| |XXXX| |    | |    | |    | |    | |XXXX|
+|XXXX| |XXXX|========= 00 ========== 02 | |XXXX|
+|XXXX| |XXXX| |____| |____| |____| |_  _| |XXXX|
+______ ______ ______ ______ ______ __||__ ______
+|XXXX| |XXXX| |XXXX| |XXXX| |    | | || | |XXXX|
+|XXXX| |XXXX| |XXXX| |XXXX| | 22 | | || | |XXXX|
+|XXXX| |XXXX| |XXXX| |XXXX| |____| |_||_| |XXXX|
+______ ______ ______ ______ __||__ __||__ ______
+|XXXX| |XXXX| |XXXX| |XXXX| |    | |    | |    |
+|XXXX| |XXXX| |XXXX| |XXXX| | 14 === 06 === 13 |
+|XXXX| |XXXX| |XXXX| |XXXX| |____| |____| |____|
+______ ______ ______ ______ ______ ______ ______
+|XXXX| |XXXX| |XXXX| |XXXX| |XXXX| |XXXX| |XXXX|
+|XXXX| |XXXX| |XXXX| |XXXX| |XXXX| |XXXX| |XXXX|
+|XXXX| |XXXX| |XXXX| |XXXX| |XXXX| |XXXX| |XXXX|
+Pressione a tecla 'enter' para continuar
+Vao Vertical (Local de numero 14)
+Um simples elevador, sera que ainda funciona?
+O que deseja fazer?
+1 - Voltar para Ferreiro. (Marcado no mapa com numero 6)
+2 - Seguir para o outro local, desconhecido.
+3 - Seguir para Sala dos Livros. (Marcado no mapa com numero 22)
+4 - Olhar o mapa.
+Ao entrar no local pela primeira vez, voce o marca no seu mapa com o numero 21.
+Sala de Reunioes
+Chegamos num ambiente enorme, com o que parece, um palco imponente e com centenas de assentos, onde um dia, abrigava multidoes de pessoas para algum tipo de conferencia ou palestra. Nota-se tambem, uma diversidade de estandartes em suas paredes que provavelmente significava algo sobre a soberania de algum territorio.
+Apos uma melhor inspecao, ve-se que nao ha outra saida aqui sem ser por onde voce entrou.
+Voltando...
+Pressione a tecla 'enter' para continuar
+Vao Vertical (Local de numero 14)
+Um simples elevador, sera que ainda funciona?
+O que deseja fazer?
+1 - Voltar para Ferreiro. (Marcado no mapa com numero 6)
+2 - Seguir para Sala de Reunioes. (Marcado no mapa com numero 21)
+3 - Seguir para Sala dos Livros. (Marcado no mapa com numero 22)
+4 - Olhar o mapa.
+______ ______ ______ ______ ______ ______ ______
+|XXXX| |XXXX| |XXXX| |XXXX| |XXXX| |XXXX| |XXXX|
+|XXXX| |XXXX| |XXXX| |XXXX| |XXXX| |XXXX| |XXXX|
+|XXXX| |XXXX| |XXXX| |XXXX| |XXXX| |XXXX| |XXXX|
+______ ______ ______ ______ ______ ______ ______
+|XXXX| |XXXX| |XXXX| |XXXX| |XXXX| |    | |XXXX|
+|XXXX| |XXXX| |XXXX| |XXXX| |XXXX| | 05 | |XXXX|
+|XXXX| |XXXX| |XXXX| |XXXX| |XXXX| |_  _| |XXXX|
+______ ______ ______ ______ ______ __||__ ______
+|XXXX| |XXXX| |    | |    | |    | |    | |XXXX|
+|XXXX| |XXXX|========= 00 ========== 02 | |XXXX|
+|XXXX| |XXXX| |____| |____| |____| |_  _| |XXXX|
+______ ______ ______ ______ ______ __||__ ______
+|XXXX| |XXXX| |XXXX| |XXXX| |    | | || | |XXXX|
+|XXXX| |XXXX| |XXXX| |XXXX| | 22 | | || | |XXXX|
+|XXXX| |XXXX| |XXXX| |XXXX| |____| |_||_| |XXXX|
+______ ______ ______ ______ __||__ __||__ ______
+|XXXX| |XXXX| |XXXX| |XXXX| |    | |    | |    |
+|XXXX| |XXXX| |XXXX| |XXXX| | 14 === 06 === 13 |
+|XXXX| |XXXX| |XXXX| |XXXX| |_  _| |____| |____|
+______ ______ ______ ______ __||__ ______ ______
+|XXXX| |XXXX| |XXXX| |XXXX| |    | |XXXX| |XXXX|
+|XXXX| |XXXX| |XXXX| |XXXX| | 21 | |XXXX| |XXXX|
+|XXXX| |XXXX| |XXXX| |XXXX| |    | |XXXX| |XXXX|
+Pressione a tecla 'enter' para continuar
+Voce acaba de entrar em uma batalha o Mariposa 'GatGat'!
+O inimigo Mariposa 'GatGat' possui nivel 1, com HP 11, ataque 6 e defesa 3.
+Pressione a tecla 'enter' para continuar
+HP = 29, Ataque = 19, Defesa = 8, nivel = 3
+Voce esta na rodada 0
+O que deseja fazer?
+1 - Atacar
+2 - Tentar fugir
+O usuario escolheu a opcao: 1
+Atacando
+Voce deu 16 de dano enquanto o inimigo Mariposa 'GatGat' deu 1 de dano
+O seu HP ao final da rodada eh: 28 de 29
+HP do inimigo ao final da rodada eh: 0 de 11
+Parabens, voce subiu de nivel, agora eh nivel 4
+Apos essa ardua batalha, voce descansa para recuperar completamente o seu HP.
+Pressione a tecla 'enter' para continuar
+Vao Vertical (Local de numero 14)
+Um simples elevador, sera que ainda funciona?
+O que deseja fazer?
+1 - Voltar para Ferreiro. (Marcado no mapa com numero 6)
+2 - Seguir para Sala de Reunioes. (Marcado no mapa com numero 21)
+3 - Seguir para Sala dos Livros. (Marcado no mapa com numero 22)
+4 - Olhar o mapa.
+______ ______ ______ ______ ______ ______ ______
+|XXXX| |XXXX| |XXXX| |XXXX| |XXXX| |XXXX| |XXXX|
+|XXXX| |XXXX| |XXXX| |XXXX| |XXXX| |XXXX| |XXXX|
+|XXXX| |XXXX| |XXXX| |XXXX| |XXXX| |XXXX| |XXXX|
+______ ______ ______ ______ ______ ______ ______
+|XXXX| |XXXX| |XXXX| |XXXX| |XXXX| |    | |XXXX|
+|XXXX| |XXXX| |XXXX| |XXXX| |XXXX| | 05 | |XXXX|
+|XXXX| |XXXX| |XXXX| |XXXX| |XXXX| |_  _| |XXXX|
+______ ______ ______ ______ ______ __||__ ______
+|XXXX| |XXXX| |    | |    | |    | |    | |XXXX|
+|XXXX| |XXXX|========= 00 ========== 02 | |XXXX|
+|XXXX| |XXXX| |____| |____| |____| |_  _| |XXXX|
+______ ______ ______ ______ ______ __||__ ______
+|XXXX| |XXXX| |XXXX| |XXXX| |    | | || | |XXXX|
+|XXXX| |XXXX| |XXXX| |XXXX| | 22 | | || | |XXXX|
+|XXXX| |XXXX| |XXXX| |XXXX| |____| |_||_| |XXXX|
+______ ______ ______ ______ __||__ __||__ ______
+|XXXX| |XXXX| |XXXX| |XXXX| |    | |    | |    |
+|XXXX| |XXXX| |XXXX| |XXXX| | 14 === 06 === 13 |
+|XXXX| |XXXX| |XXXX| |XXXX| |_  _| |____| |____|
+______ ______ ______ ______ __||__ ______ ______
+|XXXX| |XXXX| |XXXX| |XXXX| |    | |XXXX| |XXXX|
+|XXXX| |XXXX| |XXXX| |XXXX| | 21 | |XXXX| |XXXX|
+|XXXX| |XXXX| |XXXX| |XXXX| |    | |XXXX| |XXXX|
+Pressione a tecla 'enter' para continuar
+Vao Vertical (Local de numero 14)
+Um simples elevador, sera que ainda funciona?
+O que deseja fazer?
+1 - Voltar para Ferreiro. (Marcado no mapa com numero 6)
+2 - Seguir para Sala de Reunioes. (Marcado no mapa com numero 21)
+3 - Seguir para Sala dos Livros. (Marcado no mapa com numero 22)
+4 - Olhar o mapa.
+Ferreiro (Local de numero 6)
+Um laboratorio, mas tambem cheio de pecas de armas?
+O que deseja fazer?
+1 - Voltar para Grande Refeitorio. (Marcado no mapa com numero 2)
+2 - Seguir para Sala de Banhos. (Marcado no mapa com numero 13)
+3 - Seguir para Vao Vertical. (Marcado no mapa com numero 14)
+4 - Olhar o mapa.
+______ ______ ______ ______ ______ ______ ______
+|XXXX| |XXXX| |XXXX| |XXXX| |XXXX| |XXXX| |XXXX|
+|XXXX| |XXXX| |XXXX| |XXXX| |XXXX| |XXXX| |XXXX|
+|XXXX| |XXXX| |XXXX| |XXXX| |XXXX| |XXXX| |XXXX|
+______ ______ ______ ______ ______ ______ ______
+|XXXX| |XXXX| |XXXX| |XXXX| |XXXX| |    | |XXXX|
+|XXXX| |XXXX| |XXXX| |XXXX| |XXXX| | 05 | |XXXX|
+|XXXX| |XXXX| |XXXX| |XXXX| |XXXX| |_  _| |XXXX|
+______ ______ ______ ______ ______ __||__ ______
+|XXXX| |XXXX| |    | |    | |    | |    | |XXXX|
+|XXXX| |XXXX|========= 00 ========== 02 | |XXXX|
+|XXXX| |XXXX| |____| |____| |____| |_  _| |XXXX|
+______ ______ ______ ______ ______ __||__ ______
+|XXXX| |XXXX| |XXXX| |XXXX| |    | | || | |XXXX|
+|XXXX| |XXXX| |XXXX| |XXXX| | 22 | | || | |XXXX|
+|XXXX| |XXXX| |XXXX| |XXXX| |____| |_||_| |XXXX|
+______ ______ ______ ______ __||__ __||__ ______
+|XXXX| |XXXX| |XXXX| |XXXX| |    | |    | |    |
+|XXXX| |XXXX| |XXXX| |XXXX| | 14 === 06 === 13 |
+|XXXX| |XXXX| |XXXX| |XXXX| |_  _| |____| |____|
+______ ______ ______ ______ __||__ ______ ______
+|XXXX| |XXXX| |XXXX| |XXXX| |    | |XXXX| |XXXX|
+|XXXX| |XXXX| |XXXX| |XXXX| | 21 | |XXXX| |XXXX|
+|XXXX| |XXXX| |XXXX| |XXXX| |    | |XXXX| |XXXX|
+Pressione a tecla 'enter' para continuar
+Ferreiro (Local de numero 6)
+Um laboratorio, mas tambem cheio de pecas de armas?
+O que deseja fazer?
+1 - Voltar para Grande Refeitorio. (Marcado no mapa com numero 2)
+2 - Seguir para Sala de Banhos. (Marcado no mapa com numero 13)
+3 - Seguir para Vao Vertical. (Marcado no mapa com numero 14)
+4 - Olhar o mapa.
+Grande Refeitorio (Local de numero 2)
+Ruinas de um antigo refeitorio (aparentemente para pessoas nao importantes)
+O que deseja fazer?
+1 - Voltar para Saguao do Castelo. (Marcado no mapa com numero 0)
+2 - Seguir para Pequeno Refeitorio. (Marcado no mapa com numero 5)
+3 - Seguir para Ferreiro. (Marcado no mapa com numero 6)
+4 - Olhar o mapa.
+Pequeno Refeitorio (Local de numero 5)
+Ao entrar na sala mais conservada, voce nota que ha uma sutil diferenca entre as duas salas, a primeira sala era a sala em que os lacaios do rei comiam, enquanto na outra, a mais conservada, os mais nobres subordinados da coroa comiam.
+Alem disso, voce olha para a direita e ve uma porta entreaberta de onde vem uma luz fraca. Olhando pela janela, voce ve uma longa escadaria.
+O que deseja fazer?
+1 - Voltar para Grande Refeitorio. (Marcado no mapa com numero 2)
+2 - Seguir para a primeira descricao.
+3 - Seguir para a outra descricao.
+4 - Olhar o mapa.
+Ao entrar no local pela primeira vez, voce o marca no seu mapa com o numero 11.
+Cozinha
+Ambiente com muitos equipamentos em aco e bacias enormes, tambem em aco. Creio que essas bacias eram aquecidas nesses equipamentos para o preparo de diversos cardapios. A comida devia ser maravilhosa! 
+Apos uma melhor inspecao, ve-se que nao ha outra saida aqui sem ser por onde voce entrou.
+Voltando...
+Pressione a tecla 'enter' para continuar
+Pequeno Refeitorio (Local de numero 5)
+Restos de um refeitorio, mas esse parece ser mais elaborado
+O que deseja fazer?
+1 - Voltar para Grande Refeitorio. (Marcado no mapa com numero 2)
+2 - Seguir para Cozinha. (Marcado no mapa com numero 11)
+3 - Seguir para o outro local, desconhecido.
+4 - Olhar o mapa.
+Ao entrar no local pela primeira vez, voce o marca no seu mapa com o numero 12.
+Corredor
+Longo corredor em ruinas e teias de aranha, sem muito o que oferecer.
+Porem levam a dois caminhos distintos, a esquerda leva para um comodo relativamente grande com estruturas de madeira, e a direita para um grande salao com pinturas na parede.
+O que deseja fazer?
+1 - Voltar para Pequeno Refeitorio. (Marcado no mapa com numero 5)
+2 - Seguir para a primeira descricao.
+3 - Seguir para a outra descricao.
+4 - Olhar o mapa.
+Ao entrar no local pela primeira vez, voce o marca no seu mapa com o numero 19.
+Dormitorio Grande
+Ambiente com estruturas que mais se parecem com camas, o diferente eh que eh uma em cima da outra! Tal ideia deve ter sido desenvolvida para otimizar o pequeno espaco, entao, provavelmente, estamos num lugar que um dia servia como um tipo de dormitorio. 
+Apos uma melhor inspecao, ve-se que nao ha outra saida aqui sem ser por onde voce entrou.
+Voltando...
+Pressione a tecla 'enter' para continuar
+Corredor (Local de numero 12)
+Um corredor aos pedacos, sera que leva para outro pavimento?
+O que deseja fazer?
+1 - Voltar para Pequeno Refeitorio. (Marcado no mapa com numero 5)
+2 - Seguir para Dormitorio Grande. (Marcado no mapa com numero 19)
+3 - Seguir para o outro local, desconhecido.
+4 - Olhar o mapa.
+Ao entrar no local pela primeira vez, voce o marca no seu mapa com o numero 20.
+Sala das Personalidades
+Ao que parece, esta eh uma sala bem grande com grandes degraus. Bem provavel que esses degraus abrigavam certas cadeiras para aulas serem ministradas. Adicionalmente, duas figuras de personalidades estao em destaque nas largas paredes, talvez sejam cientistas de uma era longinqua. 
+Apos uma melhor inspecao, ve-se que nao ha outra saida aqui sem ser por onde voce entrou.
+Voltando...
+Pressione a tecla 'enter' para continuar
+Corredor (Local de numero 12)
+Um corredor aos pedacos, sera que leva para outro pavimento?
+O que deseja fazer?
+1 - Voltar para Pequeno Refeitorio. (Marcado no mapa com numero 5)
+2 - Seguir para Dormitorio Grande. (Marcado no mapa com numero 19)
+3 - Seguir para Sala das Personalidades. (Marcado no mapa com numero 20)
+4 - Olhar o mapa.
+______ ______ ______ ______ ______ ______ ______
+|XXXX| |XXXX| |XXXX| |XXXX| |XXXX| |XXXX| |    |
+|XXXX| |XXXX| |XXXX| |XXXX| |XXXX| |XXXX| | 19 |
+|XXXX| |XXXX| |XXXX| |XXXX| |XXXX| |XXXX| |_  _|
+______ ______ ______ ______ ______ ______ __||__
+|XXXX| |XXXX| |XXXX| |XXXX| |    | |    | |    |
+|XXXX| |XXXX| |XXXX| |XXXX| | 11 === 05 === 12 |
+|XXXX| |XXXX| |XXXX| |XXXX| |____| |_  _| |_  _|
+______ ______ ______ ______ ______ __||__ __||__
+|XXXX| |XXXX| |    | |    | |    | |    | |    |
+|XXXX| |XXXX|========= 00 ========== 02 | | 20 |
+|XXXX| |XXXX| |____| |____| |____| |_  _| |____|
+______ ______ ______ ______ ______ __||__ ______
+|XXXX| |XXXX| |XXXX| |XXXX| |    | | || | |XXXX|
+|XXXX| |XXXX| |XXXX| |XXXX| | 22 | | || | |XXXX|
+|XXXX| |XXXX| |XXXX| |XXXX| |____| |_||_| |XXXX|
+______ ______ ______ ______ __||__ __||__ ______
+|XXXX| |XXXX| |XXXX| |XXXX| |    | |    | |    |
+|XXXX| |XXXX| |XXXX| |XXXX| | 14 === 06 === 13 |
+|XXXX| |XXXX| |XXXX| |XXXX| |_  _| |____| |____|
+______ ______ ______ ______ __||__ ______ ______
+|XXXX| |XXXX| |XXXX| |XXXX| |    | |XXXX| |XXXX|
+|XXXX| |XXXX| |XXXX| |XXXX| | 21 | |XXXX| |XXXX|
+|XXXX| |XXXX| |XXXX| |XXXX| |    | |XXXX| |XXXX|
+Pressione a tecla 'enter' para continuar
+Corredor (Local de numero 12)
+Um corredor aos pedacos, sera que leva para outro pavimento?
+O que deseja fazer?
+1 - Voltar para Pequeno Refeitorio. (Marcado no mapa com numero 5)
+2 - Seguir para Dormitorio Grande. (Marcado no mapa com numero 19)
+3 - Seguir para Sala das Personalidades. (Marcado no mapa com numero 20)
+4 - Olhar o mapa.
+Pequeno Refeitorio (Local de numero 5)
+Restos de um refeitorio, mas esse parece ser mais elaborado
+O que deseja fazer?
+1 - Voltar para Grande Refeitorio. (Marcado no mapa com numero 2)
+2 - Seguir para Cozinha. (Marcado no mapa com numero 11)
+3 - Seguir para Corredor. (Marcado no mapa com numero 12)
+4 - Olhar o mapa.
+Grande Refeitorio (Local de numero 2)
+Ruinas de um antigo refeitorio (aparentemente para pessoas nao importantes)
+O que deseja fazer?
+1 - Voltar para Saguao do Castelo. (Marcado no mapa com numero 0)
+2 - Seguir para Pequeno Refeitorio. (Marcado no mapa com numero 5)
+3 - Seguir para Ferreiro. (Marcado no mapa com numero 6)
+4 - Olhar o mapa.
+Saguao do Castelo
+De volta nesse saguao... A saida nao eh mais uma possibilidade.
+O que deseja fazer?
+1 - Subir a escada da esquerda.
+2 - Subir a escada da direita.
+3 - Olhar o mapa.
+O usuario escolheu a opcao: 1
+Ao entrar no local pela primeira vez, voce o marca no seu mapa com o numero 1.
+Sala do Trono
+Voce sobe a escada desviando de alguns escombros e chega a uma sala grande, ao entrar nela, se depara com algumas subsalas, dentre as quais esta uma grande cadeira, quem sabe um trono. Voce vasculha a sala inteira e encontra apenas uma plaqueta suja com tres letras: G, E, N. Talvez esse seja o local onde o Rei do castelo ficava durante suas horas de trabalho.
+Voltando ao inicio da sala, voce ve dois caminhos: Pela direita, um corredor que leva a uma sala com uma inscricao indistinguivel de longe. Pela esquerda, um outro corredor leva voce a uma outra sala ampla.
+O que deseja fazer?
+1 - Voltar para Saguao do Castelo. (Marcado no mapa com numero 0)
+2 - Seguir para a primeira descricao.
+3 - Seguir para a outra descricao.
+4 - Olhar o mapa.
+Ao entrar no local pela primeira vez, voce o marca no seu mapa com o numero 3.
+Sala do Conselheiro
+Voce decidiu ir na direcao da inscricao indistinguivel. Aos poucos, a inscricao vai tornando-se dinstiguivel e voce consegue ler 'ADMINISTRACAO'. Mas que fato curioso, veja voce, um castelo teria uma sala admnistracao? Bem, pensar durante a exploracao de um castelo em ruinas nao parece ser uma atitude sensata, e melhor continuar explorando...
+Voce olha para a direita e ve um laboratorio escuro, olhando para a frente, voce ve uma sala com uma mesa e alguns acessorios sobre ela.
+O que deseja fazer?
+1 - Voltar para Sala do Trono. (Marcado no mapa com numero 1)
+2 - Seguir para a primeira descricao.
+3 - Seguir para a outra descricao.
+4 - Olhar o mapa.
+Ao entrar no local pela primeira vez, voce o marca no seu mapa com o numero 7.
+Sala dos Mestres
+Ao entrar no laboratorio escuro, suas pupilas se ajustam e voce consegue, as poucos, distinguir os moveis do laboratorio. Pilhas e mais pilhas de papel por todos os lados. Em um ponto iluminado sobre uma das mesas, voce consegue enxergar a palavra 'Mestrado'. Seria esse o local onde os mestres da corte passavam seus dias estudando?
+Olhando com atencao, voce ve uma porta que parece adentrar para um laboratorio ainda mais profundo, onde homens ainda mais sabios se recolhiam para estudar... Olhando de relance para o outro lado, voce ve uma porta com uma iluminacao leve, um mal cheiro forte e um fio de agua correndo pela porta.
+O que deseja fazer?
+1 - Voltar para Sala do Conselheiro. (Marcado no mapa com numero 3)
+2 - Seguir para a primeira descricao.
+3 - Seguir para a outra descricao.
+4 - Olhar o mapa.
+Voce acaba de entrar em uma batalha o Mariposa 'GatGat'!
+O inimigo Mariposa 'GatGat' possui nivel 1, com HP 14, ataque 6 e defesa 2.
+Pressione a tecla 'enter' para continuar
+HP = 32, Ataque = 24, Defesa = 10, nivel = 4
+Voce esta na rodada 0
+O que deseja fazer?
+1 - Atacar
+2 - Tentar fugir
+O usuario escolheu a opcao: 1
+Atacando
+Voce deu 22 de dano enquanto o inimigo Mariposa 'GatGat' deu 1 de dano
+O seu HP ao final da rodada eh: 31 de 32
+HP do inimigo ao final da rodada eh: 0 de 14
+Parabens, voce subiu de nivel, agora eh nivel 5
+Apos essa ardua batalha, voce descansa para recuperar completamente o seu HP.
+Pressione a tecla 'enter' para continuar
+Ao entrar no local pela primeira vez, voce o marca no seu mapa com o numero 16.
+Banheiro Reservado
+Comodo apertado, porem, com diversas estruturas para realizar as necessidades. Como o ambiente eh pequeno e foram encontradas trancas nas portas, eh notorio que so um certo grupo de pessoas usavam as estruturas desse lugar, provavelmente, as pessoas com um grau de intelecto maior que as demais. O ambiente eh tao pequeno que nao existe nem porta.
+Parabens, voce conseguiu encontrar o tesouro!
+Infelizmente, o tesouro esta trancando e voce nao possui a chave secreta para poder abrir.
+Voltando para o local anterior...
+Pressione a tecla 'enter' para continuar
+Sala dos Mestres (Local de numero 7)
+Um antigo laboratorio, aparentemente usado por alunos de mestrado
+O que deseja fazer?
+1 - Voltar para Sala do Conselheiro. (Marcado no mapa com numero 3)
+2 - Seguir para o outro local, desconhecido.
+3 - Seguir para Banheiro Reservado. (Marcado no mapa com numero 16)
+4 - Olhar o mapa.
+Ao entrar no local pela primeira vez, voce o marca no seu mapa com o numero 15.
+Sala do Mestre dos Mestres
+Chegamos num lugar onde sao encontradas diversas maquinas e restos de computador. Pela complexidade dos equipamentos, somente pessoas com um grau alto de sabedoria poderia usa-los, devem ser pessoas que almejam um alto titulo academico. Apesar das estruturas impactantes, nao tem para onde ir.
+Apos uma melhor inspecao, ve-se que nao ha outra saida aqui sem ser por onde voce entrou.
+Voltando...
+Pressione a tecla 'enter' para continuar
+Voce acaba de entrar em uma batalha o Cupim Gigante 'TPA'!
+O inimigo Cupim Gigante 'TPA' possui nivel 6, com HP 33, ataque 14 e defesa 6.
+Pressione a tecla 'enter' para continuar
+HP = 35, Ataque = 29, Defesa = 12, nivel = 5
+Voce esta na rodada 0
+O que deseja fazer?
+1 - Atacar
+2 - Tentar fugir
+O usuario escolheu a opcao: 1
+Atacando
+Ataque critico!
+Voce deu 46 de dano enquanto o inimigo Cupim Gigante 'TPA' deu 2 de dano
+O seu HP ao final da rodada eh: 33 de 35
+HP do inimigo ao final da rodada eh: 0 de 33
+Parabens, voce subiu de nivel, agora eh nivel 6
+Apos essa ardua batalha, voce descansa para recuperar completamente o seu HP.
+Pressione a tecla 'enter' para continuar
+Sala dos Mestres (Local de numero 7)
+Um antigo laboratorio, aparentemente usado por alunos de mestrado
+O que deseja fazer?
+1 - Voltar para Sala do Conselheiro. (Marcado no mapa com numero 3)
+2 - Seguir para Sala do Mestre dos Mestres. (Marcado no mapa com numero 15)
+3 - Seguir para Banheiro Reservado. (Marcado no mapa com numero 16)
+4 - Olhar o mapa.
+______ ______ ______ ______ ______ ______ ______
+|XXXX| |XXXX| |XXXX| |XXXX| |XXXX| |XXXX| |    |
+|XXXX| |XXXX| |XXXX| |XXXX| |XXXX| |XXXX| | 19 |
+|XXXX| |XXXX| |XXXX| |XXXX| |XXXX| |XXXX| |_  _|
+______ ______ ______ ______ ______ ______ __||__
+|XXXX| |XXXX| |XXXX| |XXXX| |    | |    | |    |
+|XXXX| |XXXX| |XXXX| |XXXX| | 11 === 05 === 12 |
+|XXXX| |XXXX| |XXXX| |XXXX| |____| |_  _| |_  _|
+______ ______ ______ ______ ______ __||__ __||__
+|XXXX| |    | |    | |    | |    | |    | |    |
+|XXXX| | 01 ========== 00 ========== 02 | | 20 |
+|XXXX| |_  _| |____| |____| |____| |_  _| |____|
+______ __||__ ______ ______ ______ __||__ ______
+|XXXX| | || | |    | |XXXX| |    | | || | |XXXX|
+|XXXX| | || | | 15 | |XXXX| | 22 | | || | |XXXX|
+|XXXX| |_||_| |_  _| |XXXX| |____| |_||_| |XXXX|
+______ __||__ __||__ ______ __||__ __||__ ______
+|XXXX| |    | |    | |XXXX| |    | |    | |    |
+|XXXX| | 03 === 07 | |XXXX| | 14 === 06 === 13 |
+|XXXX| |____| |_  _| |XXXX| |_  _| |____| |____|
+______ ______ __||__ ______ __||__ ______ ______
+|XXXX| |XXXX| |    | |XXXX| |    | |XXXX| |XXXX|
+|XXXX| |XXXX| | 16 | |XXXX| | 21 | |XXXX| |XXXX|
+|XXXX| |XXXX| |    | |XXXX| |    | |XXXX| |XXXX|
+Pressione a tecla 'enter' para continuar
+Sala dos Mestres (Local de numero 7)
+Um antigo laboratorio, aparentemente usado por alunos de mestrado
+O que deseja fazer?
+1 - Voltar para Sala do Conselheiro. (Marcado no mapa com numero 3)
+2 - Seguir para Sala do Mestre dos Mestres. (Marcado no mapa com numero 15)
+3 - Seguir para Banheiro Reservado. (Marcado no mapa com numero 16)
+4 - Olhar o mapa.
+Sala do Conselheiro (Local de numero 3)
+Restos de uma sala, ve-se escrito 'ADMINISTRACAO'
+O que deseja fazer?
+1 - Voltar para Sala do Trono. (Marcado no mapa com numero 1)
+2 - Seguir para Sala dos Mestres. (Marcado no mapa com numero 7)
+3 - Seguir para o outro local, desconhecido.
+4 - Olhar o mapa.
+Ao entrar no local pela primeira vez, voce o marca no seu mapa com o numero 8.
+Sala Recreativa
+Ao entrar na sala da mesa, voce se depara com uma garrafinha de cafe e biscoitinhos. Mas que local familiar... sera aqui se reuniam os sabios do castelo? Sera que ainda ha algo para olhar aqui? O que?! Nao me diga que voce esta pensando em comer os biscoitinhos e tomar aquele cafe!!
+Apos uma melhor inspecao, ve-se que nao ha outra saida aqui sem ser por onde voce entrou.
+Voltando...
+Pressione a tecla 'enter' para continuar
+Sala do Conselheiro (Local de numero 3)
+Restos de uma sala, ve-se escrito 'ADMINISTRACAO'
+O que deseja fazer?
+1 - Voltar para Sala do Trono. (Marcado no mapa com numero 1)
+2 - Seguir para Sala dos Mestres. (Marcado no mapa com numero 7)
+3 - Seguir para Sala Recreativa. (Marcado no mapa com numero 8)
+4 - Olhar o mapa.
+Sala do Trono (Local de numero 1)
+Ruinas de uma aparente 'Sala de Comando'
+O que deseja fazer?
+1 - Voltar para Saguao do Castelo. (Marcado no mapa com numero 0)
+2 - Seguir para Sala do Conselheiro. (Marcado no mapa com numero 3)
+3 - Seguir para o outro local, desconhecido.
+4 - Olhar o mapa.
+Ao entrar no local pela primeira vez, voce o marca no seu mapa com o numero 4.
+Sala de Aprendizagem
+Tendo voce decidido a seguir o caminho da sala ampla, voce entra, luzes acendem automaticamente (seria isso um feitico?). Ao observar o cenario, voce percebe que as mesas, as cadeiras e um grande retangulo verde-escuro ao fim da sala lembram salas de aula de escolas... Espera, na epoca dos castelos ja existiam escolas? Algo de errado nao esta certo...
+Mais Longe, voce ve uma escada e uma salinha com uma inscricao indistiguivel de longe.
+O que deseja fazer?
+1 - Voltar para Sala do Trono. (Marcado no mapa com numero 1)
+2 - Seguir para a primeira descricao.
+3 - Seguir para a outra descricao.
+4 - Olhar o mapa.
+Ao entrar no local pela primeira vez, voce o marca no seu mapa com o numero 10.
+Sala de Controle
+Lugar bem pequeno com pequenas mesas e cadeiras, poucas pessoas deviam utilizar o que esse comodo tinha a oferecer, porem pelos quadros e anotacoes encontrados, devia ser um setor voltado a administracao. Como aparenta ser um ambiente reservado, nao existe caminhos alem daqui.
+Apos uma melhor inspecao, ve-se que nao ha outra saida aqui sem ser por onde voce entrou.
+Voltando...
+Pressione a tecla 'enter' para continuar
+Sala de Aprendizagem (Local de numero 4)
+Uma sala destruida, essas cadeiras fazem parecer de uma sala de aula...
+O que deseja fazer?
+1 - Voltar para Sala do Trono. (Marcado no mapa com numero 1)
+2 - Seguir para o outro local, desconhecido.
+3 - Seguir para Sala de Controle. (Marcado no mapa com numero 10)
+4 - Olhar o mapa.
+Ao entrar no local pela primeira vez, voce o marca no seu mapa com o numero 9.
+Parabens, voce conseguiu achar a chave secreta, agora consegue abrir o tesouro que esta perdido em algum canto desse castelo.
+Escadas
+Longas escadarias em formato de caracol, degraus em marmore e corrimaos em ferro, hoje ja desgastados pela oxidacao.
+Ao subir, pela esquerda encontramos um lugar grande com varios destrocos em vidro, ja, pela direita, o que parece que sao ruinas em madeira.
+O que deseja fazer?
+1 - Voltar para Sala de Aprendizagem. (Marcado no mapa com numero 4)
+2 - Seguir para a primeira descricao.
+3 - Seguir para a outra descricao.
+4 - Olhar o mapa.
+Sala de Aprendizagem (Local de numero 4)
+Uma sala destruida, essas cadeiras fazem parecer de uma sala de aula...
+O que deseja fazer?
+1 - Voltar para Sala do Trono. (Marcado no mapa com numero 1)
+2 - Seguir para Escadas. (Marcado no mapa com numero 9)
+3 - Seguir para Sala de Controle. (Marcado no mapa com numero 10)
+4 - Olhar o mapa.
+______ ______ ______ ______ ______ ______ ______
+|XXXX| |XXXX| |XXXX| |XXXX| |XXXX| |XXXX| |    |
+|XXXX| |XXXX| |XXXX| |XXXX| |XXXX| |XXXX| | 19 |
+|XXXX| |XXXX| |XXXX| |XXXX| |XXXX| |XXXX| |_  _|
+______ ______ ______ ______ ______ ______ __||__
+|    | |    | |    | |XXXX| |    | |    | |    |
+| 09 === 04 === 10 | |XXXX| | 11 === 05 === 12 |
+|____| |_  _| |____| |XXXX| |____| |_  _| |_  _|
+______ __||__ ______ ______ ______ __||__ __||__
+|XXXX| |    | |    | |    | |    | |    | |    |
+|XXXX| | 01 ========== 00 ========== 02 | | 20 |
+|XXXX| |_  _| |____| |____| |____| |_  _| |____|
+______ __||__ ______ ______ ______ __||__ ______
+|XXXX| | || | |    | |XXXX| |    | | || | |XXXX|
+|XXXX| | || | | 15 | |XXXX| | 22 | | || | |XXXX|
+|XXXX| |_||_| |_  _| |XXXX| |____| |_||_| |XXXX|
+______ __||__ __||__ ______ __||__ __||__ ______
+|    | |    | |    | |XXXX| |    | |    | |    |
+| 08 === 03 === 07 | |XXXX| | 14 === 06 === 13 |
+|____| |____| |_  _| |XXXX| |_  _| |____| |____|
+______ ______ __||__ ______ __||__ ______ ______
+|XXXX| |XXXX| |    | |XXXX| |    | |XXXX| |XXXX|
+|XXXX| |XXXX| | 16 | |XXXX| | 21 | |XXXX| |XXXX|
+|XXXX| |XXXX| |    | |XXXX| |    | |XXXX| |XXXX|
+Pressione a tecla 'enter' para continuar
+Sala de Aprendizagem (Local de numero 4)
+Uma sala destruida, essas cadeiras fazem parecer de uma sala de aula...
+O que deseja fazer?
+1 - Voltar para Sala do Trono. (Marcado no mapa com numero 1)
+2 - Seguir para Escadas. (Marcado no mapa com numero 9)
+3 - Seguir para Sala de Controle. (Marcado no mapa com numero 10)
+4 - Olhar o mapa.
+Sala do Trono (Local de numero 1)
+Ruinas de uma aparente 'Sala de Comando'
+O que deseja fazer?
+1 - Voltar para Saguao do Castelo. (Marcado no mapa com numero 0)
+2 - Seguir para Sala do Conselheiro. (Marcado no mapa com numero 3)
+3 - Seguir para Sala de Aprendizagem. (Marcado no mapa com numero 4)
+4 - Olhar o mapa.
+Sala do Conselheiro (Local de numero 3)
+Restos de uma sala, ve-se escrito 'ADMINISTRACAO'
+O que deseja fazer?
+1 - Voltar para Sala do Trono. (Marcado no mapa com numero 1)
+2 - Seguir para Sala dos Mestres. (Marcado no mapa com numero 7)
+3 - Seguir para Sala Recreativa. (Marcado no mapa com numero 8)
+4 - Olhar o mapa.
+Sala dos Mestres (Local de numero 7)
+Um antigo laboratorio, aparentemente usado por alunos de mestrado
+O que deseja fazer?
+1 - Voltar para Sala do Conselheiro. (Marcado no mapa com numero 3)
+2 - Seguir para Sala do Mestre dos Mestres. (Marcado no mapa com numero 15)
+3 - Seguir para Banheiro Reservado. (Marcado no mapa com numero 16)
+4 - Olhar o mapa.
+Banheiro Reservado (Local de numero 16)
+Restos de um banheiro... Ainda fede muito
+Parabens, voce conseguiu encontrar o tesouro!
+Voce possui a chave secreta para abrir o tesouro!
+Ao abrir a caixa do tesouro, a caixa voa das suas maos por ocasiao de uma explosao verde-oliva. Depois de se recuperar e recobrar os sentidos, voce ve o espectro de um militar barbudo. Voce esta prestes a chamar o militar de varado e acochambrao, ate que, por intervencao divina, voce percebe que e o espectro de Ricardo Franco, o Patrono dos engenheiros militares. O espectro se aproxima de voce e comeca a falar
+Espectro de Ricardo Franco:
+Ora Ora, quem diria, um paisano me libertou de minha prisao. Nao sei ao certo o que houve com esta honrosa casa, mas desde que alguns militares da aeronautica vieram fazer uma visita suspeita eu perdi a consciencia. Venha ca, o que voce tem ai na mao?
+(Ricardo Franco examina sua mao e pega a chave inglesa)
+Espectro de Ricardo Franco:
+Humm, uma chave inglesa, venha aqui, venha aqui.
+Ricardo Franco pega a chave inglesa, desce ate o terreo e comeca a consertar um blindado, trata-se do Guarani, o blindado projetado por engenheiros do IME.O espectro leva voce, dentro do blindado, ate Sao Jose dos Campos e vai tirar satisfacoes com alguns alunos de la. Depois de algumas mijadas, os alunos do outro instituto admitem seu erro e voltam com o espectro para o IME. O espectro manda os alunos limparem toda a bagunca enquanto sentam e levantam ao silvo de apito. O 'Castelo' retoma sua forma plena e Ricardo Franco brada 'VIBRA ALUNO!!!'
+Espectro de Ricardo Franco:
+Ora Ora, agora tudo ficou claro, lembro-me bem do que aconteceu. Depois do IME conseguir passar 25 anos consecutivos sendo a melhor faculdade de engenharia do Brasil, alguns alunos de um instituto de outra forca decidiram vandalizar a minha honrosa casa. Gracas a voce, querido paisano, o Instituto Militar de Engenharia, Real academia de Artilharia, Fortificacao e Desenho, 1792, vai poder voltar a assumir sua posicao na realidade academica nacional. Por ter escolhido o walkie talkie, voce vai ter o privilegio de fazer curso de Engenharia Mecanica! Ate mais, paisano!
+Obrigado por jogar.
+Pressione a tecla 'enter' para fechar o jogo
