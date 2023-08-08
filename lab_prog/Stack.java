@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Stack {
+public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         stack<Integer> s = new stack<Integer>();
@@ -23,7 +23,7 @@ public class Stack {
             top = -1;
         }
         public void push(T item) {
-            if (top == arr.length - 1) {
+            if (top + 1 == arr.length) {
                 resize(2 * arr.length);
             }
             arr[++top] = item;
