@@ -1,0 +1,56 @@
+Wizard 55 5 Joao Paulo
+Dwarf 23 21 Andrade
+Elf 23 3 Leo
+Hobbit 28 7 Hamilton
+Dwarf 20 22 Yann
+Dwarf 17 22 Paes
+Hobbit 28 7 Navarro
+Human 29 3 Cipriano
+Hobbit 29 5 Watson
+Elf 23 6 Maldonado
+Human 20 4 PG
+Dwarf 19 21 Vieira
+Dwarf 17 23 Laxe
+Hobbit 28 2 Johannes
+Elf 21 4 Evelyn
+Human 24 3 Narciso
+Hobbit 26 5 Jean
+Hobbit 27 2 David Vieira
+Human 24 4 Antunes
+Elf 22 5 Oto
+Human 22 4 Silva
+Elf 28 3 Pedro Barros
+Dwarf 23 21 Suriel
+Human 25 3 Bruce
+Dwarf 18 21 Camelo
+Hobbit 21 6 Ebert
+Elf 28 6 Job
+Elf 21 6 Pepes
+Sauron 10 2 Paulo Melo
+Troll 22 6.6 Rezende
+Troll 23 6.6 Proenca
+Shadow 33 7 Roosevelt
+Troll 21 7.7 Pedro Bulcao
+Orc 27 7 Asfora
+Shadow 30 7 Campanha
+Orc 23 6 Daniel Malaquias
+Shadow 26 5 Ramalho
+Orc 26 7 Sakai
+Orc 24 8 Joao Inacio
+Orc 25 7 Luciana
+Orc 27 8 Gandolfi
+Orc 26 9 Nathan
+Troll 29 4.4 Mateus Cosenza
+Shadow 26 8 Ivo Lin
+Shadow 27 6 Ana Paula
+Shadow 34 6 Juiz
+Shadow 28 8 Dalcin
+Shadow 26 6 Romulo
+Troll 29 7.7 Ayroso
+Shadow 26 7 Laurindo
+Shadow 29 8 Luiz
+Orc 29 7 Calheiros
+Shadow 29 5 Pontes
+Shadow 26 8 Horie
+Troll 23 8.8 Vanzan
+Troll 21 4.4 Andre Sorriso
