@@ -1,0 +1,33 @@
+1'<!DOCTYPE html>
+
+<head>
+  <title>Pokemon Battle Simulator</title>
+  <link rel="stylesheet" type="text/css" href="./index.css">
+  <link href="./images/favicon.ico" rel="icon" type="image/x-icon" />
+  <script type="text/javascript" src="./main.js" charset="utf-8" defer></script>
+</head>
+
+<body onload="checkUser()">
+  <h1 id="header">Pokémon Battle Simulator</h1>
+  <div>
+    <canvas id="board" width="920" height="550"></canvas>
+  </div>
+  <audio id="music" controls allow="autoplay" loop autoplay="true">
+    <source id="audio-source" type="audio/mp3">
+  </audio>
+  <footer class="site-header">
+    <div class="site-identity">
+      <a href="../home/home.html"><img src="../imemon-logo.png" alt="imemon" /></a>
+      <h1><a href="../home/home.html">IMEMON</a></h1>
+    </div>  
+    <nav class="site-navigation">
+      <ul class="nav">
+        <li><a href="../pokedex/pokedex.html">Pokedex</a></li> 
+        <li><a href="../battle/battle.html">Battle</a></li> 
+        <li><b id="profile"></b></li> 
+      </ul>
+    </nav>
+  </footer>
+</body>
+
+</html>

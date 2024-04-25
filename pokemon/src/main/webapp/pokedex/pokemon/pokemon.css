@@ -1,0 +1,227 @@
+body {
+  font-family: Helvetica;
+  margin: 0;
+}
+a {
+  text-decoration: none;
+  color: #000;
+}
+.site-header { 
+  border-bottom: 1px solid #ccc;
+  padding: .5em 1em;
+  background-color: white;
+}
+
+.site-header::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.site-identity {
+  float: left;
+}
+
+.site-identity h1 {
+  font-size: 2.5em;
+  margin: .7em 0 .3em 0;
+  display: inline-block;
+}
+
+.site-identity img {
+  max-width: 100px;
+  float: left;
+  margin: 0 10px 0 0;
+}
+
+.site-navigation {
+  float: right;
+}
+
+.site-navigation ul, li {
+  margin: 0; 
+  padding: 0;
+  display: center;
+}
+
+.site-navigation li {
+    font-size: 1.5em;
+    display: inline-block;
+    margin: 1.4em 1em 1em 1em;
+  }
+
+body {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: 0;
+    padding: 0;
+    background-color: #727272;
+    background-image: repeating-linear-gradient(-45deg, #6a6a6a 0, #6a6a6a 2px, #727272 2px, #727272 11px);
+    background-size: 16px 16px;
+    font-size: 1rem
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+td {
+    text-align: center;
+}
+
+.main-content {
+    margin: 1.25rem auto 2rem;
+    padding: .75rem 1rem;
+    background-color: #fff;
+}
+
+.grid-content {
+    margin: 0 auto;
+    max-width: 1220px;
+}
+
+#sprite {
+    width: 200px;
+    height: 200px;
+} 
+
+.flex-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.flex-container > div {
+    flex: 1;
+    margin-right: 10px;
+}
+
+.vitals-table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.vitals-table td, .vitals-table th {
+    border: 1px solid #000;
+    padding: 8px;
+}
+
+.vitals-table th {
+    background-color: #f2f2f2;
+    font-weight: bold;
+}
+
+
+.type-icon {
+    display: inline-block;
+    width: 66px;
+    margin-bottom: 4px;
+    background: #dbdbdb;
+    border: 1px solid #a3a3a3;
+    border-radius: 4px;
+    border: 1px solid rgba(0, 0, 0, .2);
+    color: #fff;
+    font-size: .75rem;
+    font-weight: normal;
+    line-height: 1.5rem;
+    text-align: center;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, .7);
+    text-transform: uppercase;
+    transition: opacity .4s
+}
+
+.type-icon:hover,
+.type-icon:active,
+.type-icon:focus {
+    color: #fff;
+    text-decoration: none
+}
+
+.type-icon:link:hover,
+.type-icon:link:active,
+.type-icon:link:focus {
+    opacity: .85
+}
+
+.type-normal {
+    background-color: #aa9
+}
+
+.type-fire {
+    background-color: #f42
+}
+
+.type-water {
+    background-color: #39f
+}
+
+.type-electric {
+    background-color: #fc3
+}
+
+.type-grass {
+    background-color: #7c5
+}
+
+.type-ice {
+    background-color: #6cf
+}
+
+.type-fighting {
+    background-color: #b54
+}
+
+.type-poison {
+    background-color: #a59
+}
+
+.type-ground {
+    background-color: #db5
+}
+
+.type-flying {
+    background-color: #89f
+}
+
+.type-psychic {
+    background-color: #f59
+}
+
+.type-bug {
+    background-color: #ab2
+}
+
+.type-rock {
+    background-color: #ba6
+}
+
+.type-ghost {
+    background-color: #66b
+}
+
+.type-dragon {
+    background-color: #76e
+}
+
+.type-dark {
+    background-color: #754
+}
+
+.type-steel {
+    background-color: #aab
+}
+
+.type-fairy {
+    background-color: #e9e
+}
+
+.type-curse {
+    background-color: #698
+}

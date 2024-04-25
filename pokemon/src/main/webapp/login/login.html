@@ -1,0 +1,53 @@
+<html>
+    <head>
+        <title>Pokemon Login Form</title>
+        <link rel="stylesheet" href="login.css">
+        <script src="login.js"></script>
+    </head>
+    <body>
+        <header class="site-header">
+            <div class="site-identity" href="../home/home.html">
+                <a href="../home/home.html"><img src="../imemon-logo.png" alt="imemon" /></a>
+                <h1><a href="../home/home.html">IMEMON</a></h1>
+            </div>
+        </header>
+        <div class="hero">
+            <div class="form-box">
+                <div class="button-box">
+                    <div id="hsr"></div>
+                    <button type="button" class="movie" onclick="movelogin()">LOGIN</button> 
+                    <button type="button" class="song" onclick="moveregister()">REGISTER </button> 
+                </div>
+                <form id="login" class="info-data" method="post" action="">
+                    <input type="text" class="info-btn" placeholder="username" name="usernameLogin" required onkeyup="checkUser()">
+                    <input type="password" class="data-btn" placeholder="password" name="passwordLogin" required onkeyup="checkPass()">
+                    <input type="checkbox" class="check-btn"> <span>Remember password </span>
+                    <button type="submit" class="sub-btn">LOGIN</button>
+                </form>
+                <form id="register" class="info-data" method="post" action="">
+                    <input type="text" class="info-btn" placeholder="username" name="usernameRegister" required onkeyup="checkUser()">
+                    <input type="email" class="data-btn" placeholder="email" name="emailRegister" required>
+                    <input type="password" class="data-btn" placeholder="password" name="passwordRegister" required onkeyup="checkPass()">
+                    <input type="checkbox" class="check-btn"> <span>Agree with terms and conditions</span>
+                    <button type="submit" class="sub-btn">REGISTER</button>
+                </form>
+            </div>
+        </div>
+        <script>
+            var x= document.getElementById("login");
+            var y= document.getElementById("register");
+            var z= document.getElementById("hsr");
+
+            function movelogin(){
+                x.style.left = "50px";
+                y.style.left = "450px";
+                z.style.left = "0px";
+            }
+            function moveregister() {
+                x.style.left = "-400px";
+                y.style.left = "50px";
+                z.style.left = "110px";
+            }  
+        </script>
+    </body>
+</html>

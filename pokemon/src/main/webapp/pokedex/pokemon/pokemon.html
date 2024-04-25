@@ -1,0 +1,53 @@
+<html>
+    <head>
+        <link rel = "stylesheet" type = "text/css" href = "pokemon.css">
+        <title id = "title">Pokédex</title>
+        <script src = "pokemon.js"></script>
+    </head>
+    <body onload="checkUser()">
+        <header class="site-header">
+            <div class="site-identity">
+                <a href="../../home/home.html"><img src="../../imemon-logo.png" alt="imemon" /></a>
+                <h1><a href="../../home/home.html">IMEMON</a></h1>
+            </div>
+            <nav class="site-navigation">
+                <ul class="nav">
+                    <li><a href="../../pokedex/pokedex.html">Pokedex</a></li>
+                    <li><a href="../../battle/battle.html">Battle</a></li>
+                    <li><b id="profile"></b></li>
+                </ul>
+            </nav>
+        </header>
+        <main class="main-content grid-container">
+            <h1 style="font-size: 70" id = "getname"></h1>
+            <h1 id = "images"></h1>
+            <h2>Types</h2>  
+            <div class = "resp-scroll">
+                <table class = "vitals-table">
+                    <tbody id = "types">
+                    </tbody>
+                </table>
+            </div>
+            <div class="flex-container">
+                <div>
+                    <h2>Moves</h2>
+                    <div class="resp-scroll">
+                        <table class="vitals-table">
+                            <tbody id="moves">
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+                <div>
+                    <h2>Pokédex Entries</h2>
+                    <div class="resp-scroll">
+                        <table class="vitals-table">
+                            <tbody id="flavor">
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </main>
+    </body>
+</html>
